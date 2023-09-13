@@ -7,8 +7,8 @@
 - **Tools**: Git, VS Code, Android Studio
 
 ### Work experience 👔
-| Job Position           | Company         |Work Period       |
-| ---------------------- | --------------- | ----------------------------- | ----------------- |
+| Job Position           | Company         | Work Period       |
+| ---------------------- | --------------- | ----------------------------- |
 | **Junior 2 Mobile Developer** | **Puzzl Software House** | **2023/03 - now** |
 | Junior 1 Mobile Developer        | Puzzl Software House     | 2022/07 - 2023/03 |
 | Procurement Manager          |  Monte Carlo Joias       | 2021-11 - 2022-06 |
