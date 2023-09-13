@@ -2,7 +2,7 @@
 
 ### Hi, my name is Danielle Borges 👋 and I ❤️ Mobile Development
 
-<br><br><br>
+<br>
 ### Skills 🛠️
 - **Languages**: Flutter, Dart
 - **Tools**: Git, VS Code, Android Studio
