@@ -2,6 +2,7 @@
 
 ### Hi, my name is Danielle Borges 👋 and I ❤️ Mobile Development
 <br>
+
 ### Skills 🛠️
 - **Languages**: Flutter, Dart
 - **Tools**: Git, VS Code, Android Studio
@@ -18,3 +19,4 @@
 - Bachelor of Industrial Engineering @ Veiga de Almeida University
 
 More information in my [LinkedIn](https://www.linkedin.com/in/daniellegmborges/) 🚀
+<br>
