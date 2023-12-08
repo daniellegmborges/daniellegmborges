@@ -11,7 +11,7 @@
 | ---------------------- | --------------- | ----------------------------- |
 | **Junior 2 Mobile Developer** | **Puzzl Software House** | **2023/03 - now** |
 | Junior 1 Mobile Developer        | Puzzl Software House     | 2022/07 - 2023/03 |
-| Procurement Manager          |  Monte Carlo Joias       | 2019-04 - 2022-06 |
+| Procurement Manager          |  Monte Carlo Joias       | 2017-04 - 2022-06 |
 
 
 ### Education 🎓
